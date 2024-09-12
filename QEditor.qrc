@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/QEditorWindow.png</file>
+        <file>images/font.png</file>
+        <file>images/pencil.png</file>
+    </qresource>
+</RCC>
